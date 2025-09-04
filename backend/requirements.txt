@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+psycopg2-binary
+xarray
+pandas
+requests
+chromadb
+openai
+python-dotenv
+pytest
